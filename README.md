@@ -1,9 +1,9 @@
-# HELLO WORLD
+
 ## 🙋‍♀️ I'M SAIMA!
 
-**Web Developer / Software Engineering Student**
+**Web Developer / Artificial Intelligent Student**
 
-I am a passionate Web Developer and Software Engineering student with a strong drive to build interactive, functional, and secure web applications.
+I am a passionate Web Developer and  Artificial Intelligent Student with a strong drive to build interactive, functional, and secure web applications.
 
 ---
 
