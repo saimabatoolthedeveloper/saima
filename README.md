@@ -12,6 +12,7 @@ These are the technologies, languages, and tools I actively work with:
 *   **Database & Backend Services:** Firebase (Authentication, Hosting, Firestore)
 *   **Version Control & Workflows:** Git, GitHub, GitLab
 *   **Other Interests:** Assembly Language (EMU 8086)
+*   Languages:** python,c++
 
 ---
 
