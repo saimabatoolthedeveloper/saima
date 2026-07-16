@@ -1,4 +1,4 @@
-# Hi, I'm Saima Batool! 👋
+# Hi, I'm Saima Batool! 
 
 I am a passionate Web Developer and Software Engineering student. I love building web applications, designing user interfaces, and solving programmatic problems. I am always excited to learn new technologies and improve my development workflow.
 
@@ -22,7 +22,7 @@ A secure, responsive user authentication web application deployed live using Fir
 *   **Key Features:** User registration, secure login, and session state management.
 *   **Tech Stack:** HTML5, CSS3, JavaScript, Firebase Auth, Firebase Hosting.
 *   **Code Repository:** [View on GitLab](https://gitlab.com/saimabatoolthedeveloper/authentication)
-*   **Live Demo:** [Click here to check the live deployment](https://saimabatoolthedeveloper-auth.web.app) *(Note: Replace this link with your actual Firebase live URL)*
+*   
 
 ---
 
@@ -32,4 +32,4 @@ I'm always open to discussing new projects, collaboration opportunities, or tech
 
 *   **GitLab:** [@saimabatoolthedeveloper](https://gitlab.com/saimabatoolthedeveloper)
 *   **GitHub:** [@saimabatoolthedeveloper](https://github.com/saimabatoolthedeveloper)
-*   **Email:** saimabatoolthedeveloper@gmail.com *(Note: You can update this to your preferred email)*
+*   **Email:** saimabatool0509@gmail.com
