@@ -1,4 +1,4 @@
-# Hi, I'm Saima Batool! 👋
+# Hi, I'm Saima Batool! 
 
 I am a passionate Web Developer and Software Engineering student. I love building web applications, designing user interfaces, and solving programmatic problems. I am always excited to learn new technologies and improve my development workflow.
 
