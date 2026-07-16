@@ -1,26 +1,35 @@
+# Hi, I'm Saima Batool! 👋
 
-## 🙋‍♀️ I'M SAIMA!
-
-**Web Developer / Artificial Intelligent Student**
-
-I am a passionate Web Developer and  Artificial Intelligent Student with a strong drive to build interactive, functional, and secure web applications.
+I am a passionate Web Developer and Software Engineering student. I love building web applications, designing user interfaces, and solving programmatic problems. I am always excited to learn new technologies and improve my development workflow.
 
 ---
 
-### ⚡ About Me:
+### 🛠️ Tech Stack & Skills
 
-*   🎓 &nbsp; **Education:** Currently pursuing my studies in Software Engineering.
-*   💻 &nbsp; **Interests:** I love working with frontend designs and database integrations.
-*   🔐 &nbsp; **Key Project:** Recently built a complete, secure web authentication system.
-*   🛠️ &nbsp; **Low-Level:** Also enjoy low-level programming challenges in Assembly (EMU 8086).
-*   ✉️ &nbsp; **Reach me at:** **saimabatoolthedeveloper@gmail.com**
+These are the technologies, languages, and tools I actively work with:
 
----
-
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white)
+*   **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+*   **Database & Backend Services:** Firebase (Authentication, Hosting, Firestore)
+*   **Version Control & Workflows:** Git, GitHub, GitLab
+*   **Other Interests:** Assembly Language (EMU 8086)
 
 ---
 
-![Profile Views](https://profile-counter.glitch.me/saimabatoolthedeveloper/count.svg)
+### 🚀 Featured Project
+
+#### 🔐 Web Authentication Application
+A secure, responsive user authentication web application deployed live using Firebase.
+*   **Key Features:** User registration, secure login, and session state management.
+*   **Tech Stack:** HTML5, CSS3, JavaScript, Firebase Auth, Firebase Hosting.
+*   **Code Repository:** [View on GitLab](https://gitlab.com/saimabatoolthedeveloper/authentication)
+*   **Live Demo:** [Click here to check the live deployment](https://saimabatoolthedeveloper-auth.web.app) *(Note: Replace this link with your actual Firebase live URL)*
+
+---
+
+### 📫 Connect with Me
+
+I'm always open to discussing new projects, collaboration opportunities, or technical challenges!
+
+*   **GitLab:** [@saimabatoolthedeveloper](https://gitlab.com/saimabatoolthedeveloper)
+*   **GitHub:** [@saimabatoolthedeveloper](https://github.com/saimabatoolthedeveloper)
+*   **Email:** saimabatoolthedeveloper@gmail.com *(Note: You can update this to your preferred email)*
